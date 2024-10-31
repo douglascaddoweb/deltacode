@@ -28,7 +28,6 @@
             font-style: italic;
             font-size: 48px;
         }
-        
     </style>
 </head>
 <body>
